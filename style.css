@@ -1,0 +1,19 @@
+#logo{
+    max-width: 350px;
+    width: auto;
+    max-height: 150px;
+    height: auto;
+}
+
+#navbar, a{
+    color: white;
+}
+
+#container2, #container4{
+    background-color:#f69714 ;
+
+}
+
+svg{
+    color: white;
+}
