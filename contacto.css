@@ -11,3 +11,11 @@ svg{
     color: white;
     
 }
+
+
+map{
+    max-width: 500 px;
+    width: 100%;
+    height: auto;
+    max-height: 300px;
+}
