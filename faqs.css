@@ -1,0 +1,18 @@
+#logo2{
+    max-width: 350px;
+    width: auto;
+    max-height: 150px;
+    height: auto;
+}
+svg{
+    color: white;
+}
+
+#container1{
+    background-color: #f69714 ;
+}
+
+#footer{
+    background-color: #f69714 ;
+    margin-bottom: 0;
+}

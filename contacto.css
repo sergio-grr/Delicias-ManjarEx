@@ -16,6 +16,7 @@ svg{
 map{
     max-width: 500 px;
     width: 100%;
-    height: auto;
+    height: 100%;
     max-height: 300px;
 }
+
