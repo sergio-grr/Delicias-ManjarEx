@@ -1,0 +1,22 @@
+#logo{
+    max-width: 350px;
+    width: auto;
+    max-height: 150px;
+    height: auto;
+}
+
+
+
+svg{
+    color: white;
+}
+#container1{
+    background-color: #f69714 ;
+}
+
+#comida{
+    height: 100%;
+    width: 100%;
+    max-height: 250px;
+}
+
