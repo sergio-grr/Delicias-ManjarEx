@@ -3,6 +3,7 @@
     width: auto;
     max-height: 150px;
     height: auto;
+    margin-top: 10;
 }
 svg{
     color: white;
@@ -12,7 +13,12 @@ svg{
     background-color: #f69714 ;
 }
 
-#footer{
+body{
     background-color: #f69714 ;
     margin-bottom: 0;
+}
+
+#containerlogo2{
+    background-color: white;
+    height: auto;
 }
